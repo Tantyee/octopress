@@ -1,8 +1,0 @@
----
-layout: page
-title: "welcome"
-date: 2013-03-28 13:30
-comments: true
-categories: 
----
-![Me](/images/postimage/me.jpg)
